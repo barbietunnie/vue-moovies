@@ -3,6 +3,10 @@ Discover the current most popular movies. The application is powered by _The Mov
 
 To successfully run the application, the environment variable `VUE_APP_TMDB_API_KEY` needs to be added, either via the command line or via `.env` files.
 
+![Home](home.png "Homepage")
+
+![Detail](detail.png "Detail page")
+
 ## Project setup
 ```
 yarn install
