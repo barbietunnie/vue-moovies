@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #111;
+}
+.fade-enter-active, .fade-leave-active {
+    transition: all 0.3s ease;
+}
+.fade-enter, .fade-leave-to {
+    opacity: 0;
+    transform: translateX(100%);
+}
